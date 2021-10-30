@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Super Furet </title>
+    <link href="https://chloeheg.github.io/heggc/feed.xml" rel="self" />
+    <link href="https://chloeheg.github.io/heggc" />
+    <updated>2021-10-28T20:01:42+02:00</updated>
+    <author>
+        <name>Genicoud</name>
+    </author>
+    <id>https://chloeheg.github.io/heggc</id>
+
+    <entry>
+        <title>Pétunia</title>
+        <author>
+            <name>Genicoud</name>
+        </author>
+        <link href="https://chloeheg.github.io/heggc/petunia.html"/>
+        <id>https://chloeheg.github.io/heggc/petunia.html</id>
+
+        <updated>2021-10-28T20:01:42+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://chloeheg.github.io/heggc/media/posts/2/animal-gb37114ecb_1920.jpg" alt="" />
+                    Coucou, moi c'est Pétunia ! J'adore aller bronzer à la plage !😎 Image tirée de Pixabay
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://chloeheg.github.io/heggc/media/posts/2/animal-gb37114ecb_1920.jpg" alt="" />
+                <p class="align-center">Coucou, moi c'est Pétunia ! J'adore aller bronzer à la plage !😎</p>
+<figure class="post__image"><img loading="lazy"  src="https://chloeheg.github.io/heggc/media/posts/2/ferret-gecb677f7f_1920.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://chloeheg.github.io/heggc/media/posts/2/responsive/ferret-gecb677f7f_1920-xs.jpg 300w ,https://chloeheg.github.io/heggc/media/posts/2/responsive/ferret-gecb677f7f_1920-sm.jpg 480w ,https://chloeheg.github.io/heggc/media/posts/2/responsive/ferret-gecb677f7f_1920-md.jpg 768w ,https://chloeheg.github.io/heggc/media/posts/2/responsive/ferret-gecb677f7f_1920-lg.jpg 1024w ,https://chloeheg.github.io/heggc/media/posts/2/responsive/ferret-gecb677f7f_1920-xl.jpg 1360w ,https://chloeheg.github.io/heggc/media/posts/2/responsive/ferret-gecb677f7f_1920-2xl.jpg 1600w"  alt="Pétunia à la plage" width="1920" height="1280"></figure>
+<p class="align-center">Image tirée de <a href="#INTERNAL_LINK#/post/null" title="https://pixabay.com/fr/photos/furet-plage-sable-dunkerque-nord-6207272/">Pixabay</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Régis</title>
+        <author>
+            <name>Genicoud</name>
+        </author>
+        <link href="https://chloeheg.github.io/heggc/super-furet.html"/>
+        <id>https://chloeheg.github.io/heggc/super-furet.html</id>
+
+        <updated>2021-10-28T19:51:54+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://chloeheg.github.io/heggc/media/posts/1/pet-gf123451dd_1920.jpg" alt="" />
+                    🦄 Salut, je m'appelle Régis, y a pas d'émoticône de furet, alors je vais me visualiser comme une licorne. 🦄 Et si jamais vous vous posiez la question, c'est totalement pas fait exprès que mon portrait ne soit pas centré. C'est de l'art, c'est pas&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://chloeheg.github.io/heggc/media/posts/1/pet-gf123451dd_1920.jpg" alt="" />
+                <p class="align-center">🦄 Salut, je m'appelle <strong>Régis</strong>, y a pas d'émoticône de furet, alors je vais me visualiser comme une <strong>licorne</strong>. 🦄 </p>
+<p class="align-center">Et si jamais vous vous posiez la question, c'est totalement <span style="text-decoration: line-through;">pas</span> fait exprès que mon portrait ne soit pas centré. C'est de l'art, c'est pas du tout parce que la personne qui a fait la mise en page ne savait pas comment faire, ok. </p>
+<figure class="post__image align-center"><img loading="lazy"  src="https://chloeheg.github.io/heggc/media/posts/1/ferret-g3980167ab_1920.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://chloeheg.github.io/heggc/media/posts/1/responsive/ferret-g3980167ab_1920-xs.jpg 300w ,https://chloeheg.github.io/heggc/media/posts/1/responsive/ferret-g3980167ab_1920-sm.jpg 480w ,https://chloeheg.github.io/heggc/media/posts/1/responsive/ferret-g3980167ab_1920-md.jpg 768w ,https://chloeheg.github.io/heggc/media/posts/1/responsive/ferret-g3980167ab_1920-lg.jpg 1024w ,https://chloeheg.github.io/heggc/media/posts/1/responsive/ferret-g3980167ab_1920-xl.jpg 1360w ,https://chloeheg.github.io/heggc/media/posts/1/responsive/ferret-g3980167ab_1920-2xl.jpg 1600w"  alt="Super furet qui prend le soleil" width="490" height="490"></figure>
+<p class="align-center">Image tirée de <a href="#INTERNAL_LINK#/post/null" title="https://pixabay.com/fr/photos/furet-animal-herbe-gros-plan-1871996/" target="_blank" rel="noopener noreferrer">Pixabay</a></p>
+            ]]>
+        </content>
+    </entry>
+</feed>

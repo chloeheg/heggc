@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://chloeheg.github.io/heggc/sitemap.xml
